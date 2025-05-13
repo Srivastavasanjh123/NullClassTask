@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NullClassTask/static/css/main.816109a3.css",
-    "main.js": "/NullClassTask/static/js/main.43c3f9bc.js",
+    "main.js": "/NullClassTask/static/js/main.80da8646.js",
     "static/media/study-gif.gif": "/NullClassTask/static/media/study-gif.c4db7fbe7d41110d5970.gif",
     "index.html": "/NullClassTask/index.html",
     "main.816109a3.css.map": "/NullClassTask/static/css/main.816109a3.css.map",
-    "main.43c3f9bc.js.map": "/NullClassTask/static/js/main.43c3f9bc.js.map"
+    "main.80da8646.js.map": "/NullClassTask/static/js/main.80da8646.js.map"
   },
   "entrypoints": [
     "static/css/main.816109a3.css",
-    "static/js/main.43c3f9bc.js"
+    "static/js/main.80da8646.js"
   ]
 }
